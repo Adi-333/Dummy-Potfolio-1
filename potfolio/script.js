@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
             scrub: true,
             
         },
-        x: "-40%", 
+        x: "10%", 
         
         duration: 3,
     });
